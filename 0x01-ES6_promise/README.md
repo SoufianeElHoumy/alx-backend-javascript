@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/49fe03d2-17c1-47fc-819f-4741d8fda0d3)
 
-## Learning Objectives
+## Learning Objectives.
 
 Promises (how, why, and what)
 
