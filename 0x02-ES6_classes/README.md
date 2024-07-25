@@ -1,5 +1,6 @@
 # 0x02. ES6 classes
-![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/817248fb77fb5c2cef3f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240725T092756Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=65555e60d278c8c0001f5fa1bc041ae669084d1fb3c748213203f270fc04c566)
+![image](![image](https://github.com/user-attachments/assets/eff30600-a188-4b25-912b-1dd643d01584)
+
 ## Learning Objectives
 
 How to define a Class
