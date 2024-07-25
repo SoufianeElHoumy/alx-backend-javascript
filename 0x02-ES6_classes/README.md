@@ -1,5 +1,5 @@
 # 0x02. ES6 classes
-![image](![image](https://github.com/user-attachments/assets/eff30600-a188-4b25-912b-1dd643d01584)
+![image](https://github.com/user-attachments/assets/eff30600-a188-4b25-912b-1dd643d01584)
 
 ## Learning Objectives
 
