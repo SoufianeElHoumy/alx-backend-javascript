@@ -4,7 +4,7 @@
  * @author Soufiane El Houmy <https://github.com/SoufianeElHoumy>
  */
 const displayMessage = (msg) => {
-    console.log(msg);
-  };
-  
-  module.exports = displayMessage;
+  console.log(msg);
+};
+
+module.exports = displayMessage;
